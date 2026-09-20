@@ -6,12 +6,6 @@ A frontend recreation of the **Obys Agency** website built to practice modern we
 
 [View Live Demo](https://vivekdalvi18.github.io/obys-agency-clone/)
 
-## 📸 Preview
-
-<!-- Add a screenshot of your project here -->
-
-![Obys Agency Clone Preview](./preview.png)
-
 ## 🛠️ Technologies Used
 
 * HTML5
