@@ -75,4 +75,4 @@ This project is a frontend recreation inspired by the **Obys Agency** website an
 
 **Vivek Dalvi**
 
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@VivekDalvi18](https://github.com/VivekDalvi18)
