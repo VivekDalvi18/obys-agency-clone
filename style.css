@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Plain";
+    src: url("./assets/Plain-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Silk Serif";
+    src: url("./assets/SilkSerif-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -113,21 +127,21 @@ body{
     }
 
     50% {
-        font-family: Plain;
+        font-family: "Plain";
         opacity: 1;
         -webkit-text-stroke: 0px #fff;
         color: #fff;
     }
 
     80% {
-        font-family: Plain;
+        font-family: "Plain";
         opacity: 1;
         -webkit-text-stroke: 0px #fff;
         color: #fff;
     }
 
     100% {
-        font-family: Plain;
+        font-family: "Plain";
         opacity: 0;
         -webkit-text-stroke: 0px #fff;
         color: #fff;
@@ -262,7 +276,7 @@ main{
     width: 71vw;
     position: relative;
     left: 29%;
-    background-image: url(thumbnail.jpg);
+    background-image: url("./assets/thumbnail.jpg");
 }
 
 #video-cursor{
